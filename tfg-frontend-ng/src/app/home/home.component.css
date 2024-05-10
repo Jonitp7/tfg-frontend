@@ -1,0 +1,8 @@
+#content{
+    min-height: 90vh;
+    background-color: rgba(189, 189, 195, 0.695);
+}
+
+.activa{
+    color: grey;
+}
